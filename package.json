@@ -1,0 +1,12 @@
+{
+  "name": "kalimba-web",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "echo \"No tests\""
+  },
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}
